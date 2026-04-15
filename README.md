@@ -43,19 +43,23 @@ Final Top-N Recommendations
 ---
 
 ## 📂 Project Structure
+
+```
 goodreads-discovery-engine/
 │
-├── data/ # (ignored in GitHub)
+├── data/                      # (ignored in GitHub)
 │
 ├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_collaborative_filtering.ipynb
-│ ├── 03_content_based.ipynb
-│ ├── 04_hybrid_model.ipynb
-│ └── 05_cold_start.ipynb
+│   ├── 01_eda.ipynb
+│   ├── 02_collaborative_filtering.ipynb
+│   ├── 03_content_based.ipynb
+│   ├── 04_hybrid_model.ipynb
+│   └── 05_cold_start.ipynb
 │
 ├── README.md
 └── .gitignore
+```
+
 
 
 ---
